@@ -1,6 +1,6 @@
 # My LeetCode solutions
 
-**Easy:** 26 **Medium:** 7 **Hard:** 1
+**Easy:** 27 **Medium:** 7 **Hard:** 1
 
 
 
