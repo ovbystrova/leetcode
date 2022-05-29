@@ -26,6 +26,7 @@
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Python](solutions/485.Max_Consecutive_Ones.py) | Easy | <li>Array</li> | 
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](solutions/509.Fibonacci_Number.py) | Easy | <li>Recursion</li><li>Memorization</li> | 
 | 658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | [Python](solutions/658.Find_K_Closest_Elements.py) | Medium | <li>Array</li><li>Binary Search</li> | 
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](solutions/700.Search_in_a_Binary_Search_Tree.py) | Easy | <li>BST</li><li>Recursion</li>
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](solutions/704.Binary_Search.py) | Easy | <li>Array</li><li>Binary Search</li> | 
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Python](solutions/744.Find_Smallest_Letter_Greater_Than_Target.py) | Easy | <li>Array</li><li>Binary Search</li> | 
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](solutions/819.Most_Common_Word.py) | Easy | <li>String</li> | 
