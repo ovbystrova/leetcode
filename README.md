@@ -12,6 +12,7 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](solutions/33.Search_in_Rotated_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> | 
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](solutions/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> | 
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](solutions/88.Merge_Sorted_Array.py) | Easy | <li>Array</li> | 
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](solutions/119.Pascal's_Triangle_II.py) | Easy | <li>Recursion</li> | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](solutions/153.Find_Minimum_in_Rotated_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Python](solutions/154.Find_Minimum_in_Rotated_Sorted_Array_II.py) | Hard | <li>Array</li><li>Binary Search</li> | 
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Python](solutions/162.Find_Peak_Element.py) | Medium | <li>Array</li><li>Binary Search</li> | 
