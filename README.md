@@ -1,6 +1,6 @@
 # My LeetCode solutions
 
-**Easy:** 27 **Medium:** 7 **Hard:** 1
+**Easy:** 29 **Medium:** 7 **Hard:** 1
 
 
 
@@ -11,6 +11,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](solutions/27.Remove_Element.py) | Easy | <li>Array</li> |  
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](solutions/33.Search_in_Rotated_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> | 
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](solutions/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> | 
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](solutions/70.Climbing_Stairs.py) | Easy | <li>Recursion</li>
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Python](solutions/88.Merge_Sorted_Array.py) | Easy | <li>Array</li> | 
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Python](solutions/119.Pascal's_Triangle_II.py) | Easy | <li>Recursion</li> | 
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](solutions/153.Find_Minimum_in_Rotated_Sorted_Array.py) | Medium | <li>Array</li><li>Binary Search</li> |
