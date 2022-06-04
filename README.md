@@ -1,11 +1,12 @@
 # My LeetCode solutions
 
-**Easy:** 30 **Medium:** 7 **Hard:** 1
+**Easy:** 31 **Medium:** 7 **Hard:** 1
 
 
 
 | #   | Title  | Solution  | Difficulty | Topics |
 | --- |------- | --------- | ---------- | ------ |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](solutions/21.Merge_Two_Sorted_Lists.py) | Easy | <li>Linked List</li> <li>Recursion</li> | 
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Python](solutions/24.Swap_Nodes_in_Pairs.py) | Medium | <li>Linked List</li> |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](solutions/26.Remove_Duplicates_from_Sorted_Array.py) | Easy | <li>Array</li> | 
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](solutions/27.Remove_Element.py) | Easy | <li>Array</li> |  
