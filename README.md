@@ -1,6 +1,6 @@
 # My LeetCode solutions
 
-**Easy:** 31 **Medium:** 7 **Hard:** 1
+**Easy:** 31 **Medium:** 8 **Hard:** 1
 
 
 
@@ -33,6 +33,7 @@
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Python](solutions/700.Search_in_a_Binary_Search_Tree.py) | Easy | <li>BST</li><li>Recursion</li>
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](solutions/704.Binary_Search.py) | Easy | <li>Array</li><li>Binary Search</li> | 
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Python](solutions/744.Find_Smallest_Letter_Greater_Than_Target.py) | Easy | <li>Array</li><li>Binary Search</li> | 
+| 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Python](solutions/779.K-th_Symbol_in_Grammar.py) | Medium | <li>Recursion</li> | 
 | 819 | [Most Common Word](https://leetcode.com/problems/most-common-word/) | [Python](solutions/819.Most_Common_Word.py) | Easy | <li>String</li> | 
 | 905 | [Sort Array By Partity](https://leetcode.com/problems/sort-array-by-parity/) | [Python](solutions/905.Sort_Array_By_Parity.py) | Easy | <li>Array</li><li>String</li> | 
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Python](solutions/941.Valid_Mountain_Array.py) | Easy | <li>Array</li> | 
