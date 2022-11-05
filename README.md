@@ -1,5 +1,7 @@
 # My LeetCode solutions
 
+[Profile Link](https://leetcode.com/ispany/)
+
 **Easy:** 32 **Medium:** 10 **Hard:** 1
 
 
