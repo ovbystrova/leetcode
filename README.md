@@ -2,7 +2,7 @@
 
 [Profile Link](https://leetcode.com/ispany/)
 
-**Easy:** 34 **Medium:** 10 **Hard:** 1
+**Easy:** 35 **Medium:** 10 **Hard:** 1
 
 
 
@@ -14,7 +14,8 @@
 | 27   | [Remove Element](https://leetcode.com/problems/remove-element/)                                                                                   | [Python](solutions/27.Remove_Element.py)                                          | Easy       | <li>Array</li>                          |  
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | [Python](solutions/33.Search_in_Rotated_Sorted_Array.py)                          | Medium     | <li>Array</li><li>Binary Search</li>    | 
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](solutions/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium     | <li>Array</li><li>Binary Search</li>    | 
-| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | [Python](solutions/70.Climbing_Stairs.py)                                         | Easy       | <li>Recursion</li>                      
+| 66   | [Plus One](https://leetcode.com/problems/plus-one)                                                                                        | [Python](solutions/66.Plus_One.py)                                                | Easy       | <li>Array</li>
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | [Python](solutions/70.Climbing_Stairs.py)                                         | Easy       | <li>Recursion</li>
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                           | [Python](solutions/88.Merge_Sorted_Array.py)                                      | Easy       | <li>Array</li>                          | 
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                       | [Python](solutions/104.Maximum_Depth_of_Binary_Tree.py)                           | Easy       | <li>Binary Tree</li> <li>Recursion</li> |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)                                                                        | [Python](solutions/119.Pascal's_Triangle_II.py)                                   | Easy       | <li>Recursion</li>                      | 
@@ -29,7 +30,7 @@
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | [Python](solutions/278.First_Bad_Version.py)                                      | Easy       | <li>Binary Search</li>                  | 
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                         | [Python](solutions/283.Move_Zeroes.py)                                            | Easy       | <li>Array</li>                          | 
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                   | [Python](solutions/344.Reverse_String.py)                                         | Easy       | <li>Recursion</li>                      |
-| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                              | [Python](solutions/350.Intersection_of_two_arrays_II.py)                          | Easy       | <li>Array</li>                          |
+| 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                      | [Python](solutions/350.Intersection_of_two_arrays_II.py)                          | Easy       | <li>Array</li>                          |
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                       | [Python](solutions/367.Valid_Perfect_Square.py)                                   | Easy       | <li>Binary Search</li>                  | 
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                       | [Python](solutions/374.Guess_Number_Higher_or_Lower.py)                           | Easy       | <li>Binary Search</li>                  | 
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                       | [Python](solutions/414.Third_Maximum_Number.py)                                   | Easy       | <li>Array</li>                          | 
