@@ -2,7 +2,7 @@
 
 [Link](https://leetcode.com/ispany/)
 
-**Easy:** 35 **Medium:** 13 **Hard:** 1
+**Easy:** 36 **Medium:** 13 **Hard:** 1
 
 
 
@@ -17,7 +17,7 @@
 | 33   | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                                   | [Python](solutions/33.Search_in_Rotated_Sorted_Array.py)                          | Medium     | <li>Array</li><li>Binary Search</li>    | 
 | 34   | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Python](solutions/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.py) | Medium     | <li>Array</li><li>Binary Search</li>    | 
 | 36   | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                                       | [Python](solutions/36.Valid_Sudoku.py)                                            | Medium     | <li>Array</li><li>Hash Table</li>       |
-| 48    | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                       | [Python](solutions/48.Rotate_Image.py)                                            | Medium     | <li>Array</li><li>Matrix</li>           |
+| 48   | [Rotate Image](https://leetcode.com/problems/rotate-image/)                                                                                       | [Python](solutions/48.Rotate_Image.py)                                            | Medium     | <li>Array</li><li>Matrix</li>           |
 | 66   | [Plus One](https://leetcode.com/problems/plus-one)                                                                                                | [Python](solutions/66.Plus_One.py)                                                | Easy       | <li>Array</li>                          
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                                 | [Python](solutions/70.Climbing_Stairs.py)                                         | Easy       | <li>Recursion</li>                      
 | 88   | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                                           | [Python](solutions/88.Merge_Sorted_Array.py)                                      | Easy       | <li>Array</li>                          | 
@@ -37,6 +37,7 @@
 | 350  | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii)                                                      | [Python](solutions/350.Intersection_of_two_arrays_II.py)                          | Easy       | <li>Array</li>                          |
 | 367  | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                                       | [Python](solutions/367.Valid_Perfect_Square.py)                                   | Easy       | <li>Binary Search</li>                  | 
 | 374  | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)                                                       | [Python](solutions/374.Guess_Number_Higher_or_Lower.py)                           | Easy       | <li>Binary Search</li>                  | 
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                                                       | [Python](solutions/387.First_Unique_Character_in_a_String)                        | Easy       | <li>Hash Table</li>                     |
 | 414  | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)                                                                       | [Python](solutions/414.Third_Maximum_Number.py)                                   | Easy       | <li>Array</li>                          | 
 | 448  | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)                               | [Python](solutions/448.Find_All_Numbers_Disappeared_in_an_Array.py)               | Easy       | <li>Array</li>                          |
 | 485  | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)                                                                       | [Python](solutions/485.Max_Consecutive_Ones.py)                                   | Easy       | <li>Array</li>                          | 
