@@ -2,7 +2,7 @@
 
 [Link](https://leetcode.com/ispany/)
 
-**Easy:** 36 **Medium:** 13 **Hard:** 1
+**Easy:** 37 **Medium:** 13 **Hard:** 1
 
 
 
@@ -31,6 +31,7 @@
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array)                                                                                        | [Python](solutions/189.Rotate_Array.py)                                           | Medium     | <li>Array</li><li>Two Pointers</li>     |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                                         | [Python](solutions/206.Reverse_Linked_List.py)                                    | Easy       | <li>Linked List</li><li>Recursion</li>  |
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                                           | [Python](solutions/217.Contains_Duplicate.py)                                     | Easy       | <li>Array</li>                          |
+| 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                           | [Python](solutions/242.Valid_Anagram.py)                                          | Easy       | <li>Hash Table</li>                     |
 | 278  | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                                                                             | [Python](solutions/278.First_Bad_Version.py)                                      | Easy       | <li>Binary Search</li>                  | 
 | 283  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                                         | [Python](solutions/283.Move_Zeroes.py)                                            | Easy       | <li>Array</li>                          | 
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                                   | [Python](solutions/344.Reverse_String.py)                                         | Easy       | <li>Recursion</li>                      |
