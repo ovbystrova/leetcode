@@ -2,7 +2,7 @@
 
 [Link](https://leetcode.com/ispany/)
 
-**Easy:** 50 **Medium:** 26 **Hard:** 2
+**Easy:** 52 **Medium:** 27 **Hard:** 2
 
 * [Solutions For tasks # 1-500](solutions/1-500/README.md)
 * [Solutions For tasks # 501-1000](solutions/501-1000/README.md)
