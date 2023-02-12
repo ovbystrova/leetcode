@@ -14,4 +14,6 @@
 | 905 | [Sort Array By Partity](https://leetcode.com/problems/sort-array-by-parity/)                                        | [Python](905.Sort_Array_By_Parity.py)                    | Easy       | <li>Array</li><li>String</li>             | 
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)                                         | [Python](941.Valid_Mountain_Array.py)                    | Easy       | <li>Array</li>                            | 
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)                       | [Python](944.DeleteColumns_to_Make_Sorted.py)            | Easy       | <li>Array</li>                            |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               | [Python](977.Squares_of_a_Sorted_Array.py)               | Easy       | <li>Array</li>                            | 
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)                               | [Python](977.Squares_of_a_Sorted_Array.py)               | Easy       | <li>Array</li>                            |
+| 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)                           | [Python](986.Interval_List_Intersections.py)             | Medium     | <li>Two Pointers</li>                     | 
+
