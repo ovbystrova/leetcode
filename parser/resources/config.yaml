@@ -1,0 +1,11 @@
+request:
+  url: "https://leetcode.com"
+  url_submissions: "/api/submissions/?offset={}&limit={}&lastkey={}"
+  username: "ispany"
+  offset: 0
+  limit: 1000
+  cookie_file: "./resources/cookies.txt"
+
+processed_links: "./resources/downloaded_links.txt"
+download_dir: "../solutions"
+last_key: "./resources/last_key.txt"
