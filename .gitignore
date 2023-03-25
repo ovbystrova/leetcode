@@ -1,2 +1,4 @@
 .idea
 venv*/
+parser/resources/cookies.txt
+parser/resources/last_key.txt
